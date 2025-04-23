@@ -1,4 +1,4 @@
-# Manual-API-CRUD-Operation-
+# Manual-API-CRUD-Operation
 Manual Student API CRUD Operation 
 
 # How to Set Up and Run the Django Project
